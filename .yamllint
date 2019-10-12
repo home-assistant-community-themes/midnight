@@ -1,7 +1,7 @@
 ---
 
 yaml-files:
-  - "themes/template.yaml"
+  - "themes/midnight.yaml"
 
 rules:
   braces:
