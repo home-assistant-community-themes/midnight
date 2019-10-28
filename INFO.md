@@ -50,4 +50,4 @@ frontend:
 3. Search for `Midnight`.
 4. Navigate to `Midnight` theme.
 5. Press `Install`.
-6. Restart Home Assistant to make it show up.
+6. Go to services and trigger the `frontend.reload_themes` service.
