@@ -61,6 +61,8 @@ midnight:
   slider-bar-color: "var(--disabled-text-color)"
   slider-color: "var(--primary-color)"
   slider-secondary-color: "var(--light-primary-color)"
+  st-mode-active-background: "var(--dark-primary-color)"
+  st-mode-background: "var(--primary-background-color)"
   state-icon-active-color: "#FDD835"
   state-icon-color: "#44739e"
   state-icon-unavailable-color: "var(--disabled-text-color)"
