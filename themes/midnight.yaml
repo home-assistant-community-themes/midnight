@@ -82,6 +82,6 @@ midnight:
   input-hover-line-color: "var(--primary-color)"
   input-outlined-idle-border-color: "var(--primary-text-color)"
   input-outlined-hover-border-color: "var(--primary-text-color)"
-  input-label-ink-color: "var(--primary-color)"
+  input-label-ink-color: "var(--primary-text-color)"
   input-dropdown-icon-color: "var(--primary-text-color)"
 
