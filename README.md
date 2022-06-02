@@ -1,7 +1,7 @@
 # Midnight Theme
 
 [![Build Status](https://www.travis-ci.org/home-assistant-community-themes/midnight.svg?branch=master)](https://www.travis-ci.org/home-assistant-community-themes/midnight)
-[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
+[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/hacs/integration)
 
 > The Midnight Theme by Marcel Hoffs
 
