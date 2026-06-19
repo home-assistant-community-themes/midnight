@@ -195,6 +195,3 @@ midnight:
   ha-color-fill-neutral-normal-resting: "var(--form-hover)"
   ha-color-fill-neutral-normal-hover: "var(--accent-color-dark)"
   ha-color-fill-neutral-normal-active: "var(--accent-color)"
-
-  modes:
-    dark: {}
